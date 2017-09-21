@@ -1,7 +1,7 @@
 buildscript {
-    ext.compilerVersion = '1.1.50-eap-18'
-    ext.librariesVersion = '1.1.50-eap-18'
-    ext.eapChannel = 'https://dl.bintray.com/kotlin/kotlin-eap-1.1'
+    ext.compilerVersion = '1.2-Beta-eap-14'
+    ext.librariesVersion = '1.2-Beta-eap-14'
+    ext.eapChannel = 'https://dl.bintray.com/kotlin/kotlin-dev'
     ext.serializationRepo = 'https://kotlin.bintray.com/kotlinx'
     ext.serializationPluginVersion = '0.1'
 

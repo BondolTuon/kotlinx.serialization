@@ -1,6 +1,6 @@
 package kotlinx.io
 
-header class ByteBuffer private constructor(){
+expect class ByteBuffer private constructor(){
 
     fun order(order: ByteOrder): ByteBuffer
     fun clear(): ByteBuffer
